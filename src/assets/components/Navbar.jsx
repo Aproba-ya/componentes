@@ -5,12 +5,12 @@ const Navbar = () => {
     const Header = ()=>{
         <container>
             <div>
-                //here logo
-                //Login
-                //burger
+                <img>//logo</img>
+                <img>//Login</img>
+                <img>//burger</img>
             </div>
             <div>
-                //find bar
+                <input type="text" />//search bar
             </div>
         </container>
     }
