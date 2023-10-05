@@ -1,0 +1,36 @@
+.Header div{
+    background-color: #333; 
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+  
+  .logo img {
+    width: 100px; 
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px; 
+  }
+  
+  nav li {
+    font-size: 16px;
+  }
+  
+  .login a {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .icono-hamburguesa {
+    width: 100px; 
+  }
+  
